@@ -1,6 +1,6 @@
 spring:
   application:
-    name: dev
+    name: dev-update
 
 server:
   port: 8082

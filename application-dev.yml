@@ -1,6 +1,6 @@
 spring:
   application:
-    name: dev-update
+    name: cloud-config-client
 
 server:
   port: 8082
